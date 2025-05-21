@@ -32,23 +32,19 @@ MSc in Biomedical Engineering | College of Electrical and Computer Engineering
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 
   <!-- Backend & API -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=protocols&logoColor=white" />
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat&logo=backbone.js&logoColor=white" />
-
-  <!-- ML/DL -->
+  <!-- ML / AI -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 
-  <!-- DevOps & Infra -->
+  <!-- DevOps / Cloud -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
@@ -57,11 +53,22 @@ MSc in Biomedical Engineering | College of Electrical and Computer Engineering
   <img src="https://img.shields.io/badge/NAS-556B2F?style=flat" />
   <img src="https://img.shields.io/badge/FAISS-003366?style=flat&logoColor=white" />
 
-  <!-- Embedded / Hardware -->
+  <!-- Embedded / Edge AI / Hardware -->
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-FF8300?style=flat" />
   <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-404080?style=flat" />
+  <img src="https://img.shields.io/badge/FPGA-0171B6?style=flat" />
 </p>
+
+---
+
+#### 🚀 Currently Exploring
+- Edge AI deployment with Jetson Nano and TensorRT  
+- Embedded system development using STM32 and PlatformIO  
+- FPGA digital logic design with Verilog for signal processing  
+- RESTful backend integration for LLM-powered multi-agent systems
 
 <!---
 JonyMorii/JonyMorii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
