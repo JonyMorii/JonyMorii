@@ -1,8 +1,8 @@
 ### Hi, I'm Johnny Hu 👋
 
-🎓 MSc in Electrical Engineering, [King’s College London (KCL)](https://www.kcl.ac.uk/), United Kingdom  
-🎓 MSc in Biomedical Engineering, [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/), Taiwan  
-🎓 BSc in Computer Science and Engineering, [National Sun Yat-sen University (NSYSU)](https://www.nsysu.edu.tw/), Taiwan
+🎓 MSc in Electrical Engineering – [KCL](https://www.kcl.ac.uk/), UK 🇬🇧  
+🎓 MSc in Biomedical Engineering – [NYCU](https://www.nycu.edu.tw/), Taiwan 🇹🇼  
+🎓 BSc in Computer Science and Engineering – [NSYSU](https://www.nsysu.edu.tw/), Taiwan 🇹🇼
 
 ---
 
