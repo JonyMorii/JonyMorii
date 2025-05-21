@@ -3,8 +3,8 @@
 🎓 Graduate Student @King’s College London (KCL), UK  
 MSc in Electrical Engineering | Focus: AI & Embedded Systems  
 
-🎓 Previously @ National Yang Ming Chiao Tung University (NYCU), Taiwan  
-MSc in Biomedical Engineering | College of Electrical and Computer Engineering
+🎓 MSc in Biomedical Engineering, NYCU  
+🎓 BSc in CSE (NSYSU) & Medical Informatics (KMU, HAMI), Taiwan
 
 ---
 
