@@ -1,11 +1,8 @@
 ### Hi, I'm Johnny Hu 👋
 
-🎓 Graduate Student @ King’s College London (KCL), UK  
-MSc in Electrical Engineering | Focus: AI & Embedded Systems  
-
-🎓 MSc in Biomedical Engineering, National Yang Ming Chiao Tung University (NYCU), Taiwan  
-🎓 BSc in Computer Science and Engineering (CSE), National Sun Yat-sen University (NSYSU), Taiwan  
-🎓 BSc in Medical Informatics, Kaohsiung Medical University (KMU, HAMI), Taiwan
+🎓 MSc in Electrical Engineering, [King’s College London (KCL)](https://www.kcl.ac.uk/), United Kingdom  
+🎓 MSc in Biomedical Engineering, [National Yang Ming Chiao Tung University (NYCU)](https://www.nycu.edu.tw/), Taiwan  
+🎓 BSc in Computer Science and Engineering, [National Sun Yat-sen University (NSYSU)](https://www.nsysu.edu.tw/), Taiwan
 
 ---
 
